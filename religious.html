@@ -16,6 +16,8 @@
         });
       };
       function draw(arrayData) {
+        var data = new google.visualization.arrayToDataTable(arrayData);
+         
         var options = {
           title: '2015 World Religious Population Distribution(Million)',
           legend: {
