@@ -1,10 +1,10 @@
-['Country', 'Preference lanked by me',{type:'string', role:'tooltip'}],
-['Germany', 300,'Germany-ItsOkay'],
-['United States', 400,'US-Amazing'],
-['Brazil', 200,'Brazil-Bad'],
-['China', 100,'China-Horrible'],
-['North Korea', 200,'NK-Terrible'],
-['South Korea', 700,'SK-Best'],
-['Russia', 300,'RS-Good'],
-['Iran',250,'Iran Not-bad'],
-['Israel',500,'Israel-Very good']
+Country,Preference lanked by me, {type:'string', role:'tooltip'}
+Germany, 300,Germany-Its Okay
+United States,400,US-Amazing
+Brazil,200,Brazil-Bad
+China, 100,China-Horrible
+North Korea, 200,NK-Terrible
+South Korea, 700,SK-Best
+Russia, 300, RS-Good
+Iran,250,Iran Not-bad
+Israel,500,Israel-Very good
