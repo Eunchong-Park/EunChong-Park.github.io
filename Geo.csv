@@ -1,4 +1,4 @@
-Country,Preference lanked by me, {type:'string', role:'tooltip'}
+Country,Preference lanked by me, Opinion
 Germany, 300,Germany-Its Okay
 United States,400,US-Amazing
 Brazil,200,Brazil-Bad
